@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeremy-sense
-- 👀 I’m interested in using tec3hnology to enhance education
+- 👀 I’m interested in using technology to enhance education
 - 🌱 I’m currently learning xquery
 
 
