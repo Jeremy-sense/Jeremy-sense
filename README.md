@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeremy-sense
 - 👀 I’m interested in using technology to enhance education
-- 🌱 I’m currently learning xquery
+- 🌱 I have added expertise in Cypress
 
 
 <!---
